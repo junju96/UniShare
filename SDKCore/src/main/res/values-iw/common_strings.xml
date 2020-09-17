@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">שניות</string>
+    <string name="common_unit_time_minute">דקות</string>
+    <string name="setting_storage_default">ברירת מחדל של כרטיס הטלפון</string>
+    <string name="setting_storage_sdcard">כרטיס SD חיצוני</string>
+    <string name="setting_storage_no_permission">(אין היתר)</string>
+    <string name="setting_storage_auth">(אשר הרשאות)</string>
+</resources>

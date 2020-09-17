@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">Sec</string>
+    <string name="common_unit_time_minute">Min</string>
+    <string name="setting_storage_default">Carte téléphonique par défaut</string>
+    <string name="setting_storage_sdcard">Carte SD externe</string>
+    <string name="setting_storage_no_permission">(pas d\'autorisation)</string>
+    <string name="setting_storage_auth">(Autoriser)</string>
+</resources>

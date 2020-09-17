@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">mp</string>
+    <string name="common_unit_time_minute">p</string>
+    <string name="setting_storage_default">Alapértelmezett telefonkártya</string>
+    <string name="setting_storage_sdcard">Külső SD-kártya</string>
+    <string name="setting_storage_no_permission">(Nincs engedély)</string>
+    <string name="setting_storage_auth">(Engedélyezés)</string>
+</resources>

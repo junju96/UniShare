@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="b_click_frequently_tag" type="id"/>
+    <item name="tag_click_time" type="id" />
+    <item name="tag_video_label" type="id" />
+</resources>

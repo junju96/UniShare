@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">%s хв тому</string>
+    <string name="timer_ago_hours">%s год тому</string>
+    <string name="timer_ago_days">%s дн. тому</string>
+    <string name="timer_ago_months">%s міс. тому</string>
+    <string name="timer_ago_years">%s р. тому</string>
+    <string name="timer_ago_one_minute">1 хвилину тому</string>
+    <string name="timer_ago_one_hour">1 годину тому</string>
+    <string name="timer_ago_one_day">1 день тому</string>
+    <string name="timer_ago_one_month">1 місяць тому</string>
+    <string name="timer_ago_one_year">1 рік тому</string>
+</resources>

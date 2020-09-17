@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">πριν από %s λεπτά</string>
+    <string name="timer_ago_hours">πριν από %s ώρες</string>
+    <string name="timer_ago_days">πριν από %s ημέρες</string>
+    <string name="timer_ago_months">πριν από %s μήνες</string>
+    <string name="timer_ago_years">πριν από %s έτη</string>
+    <string name="timer_ago_one_minute">Πριν από 1 λεπτό</string>
+    <string name="timer_ago_one_hour">Πριν από 1 ώρα</string>
+    <string name="timer_ago_one_day">Πριν από 1 ημέρα</string>
+    <string name="timer_ago_one_month">Πριν από 1 μήνα</string>
+    <string name="timer_ago_one_year">Πριν από 1 έτος</string>
+</resources>

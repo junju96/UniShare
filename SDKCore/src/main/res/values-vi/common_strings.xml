@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">Giây</string>
+    <string name="common_unit_time_minute">Phút</string>
+    <string name="setting_storage_default">Thẻ điện thoại mặc định</string>
+    <string name="setting_storage_sdcard">Thẻ SD ngoại vi</string>
+    <string name="setting_storage_no_permission">(Không có giấy phép)</string>
+    <string name="setting_storage_auth">(Cấp phép)</string>
+</resources>

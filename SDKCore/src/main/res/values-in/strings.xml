@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">%s menit yang lalu</string>
+    <string name="timer_ago_hours">%s jam yang lalu</string>
+    <string name="timer_ago_days">%s hari yang lalu</string>
+    <string name="timer_ago_months">%s bulan yang lalu</string>
+    <string name="timer_ago_years">%s tahun yang lalu</string>
+    <string name="timer_ago_one_minute">1 menit yang lalu</string>
+    <string name="timer_ago_one_hour">1 jam yang lalu</string>
+    <string name="timer_ago_one_day">1 hari yang lalu</string>
+    <string name="timer_ago_one_month">1 bulan yang lalu</string>
+    <string name="timer_ago_one_year">1 tahun yang lalu</string>
+</resources>

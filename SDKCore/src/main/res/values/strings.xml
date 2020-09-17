@@ -1,0 +1,17 @@
+<resources>
+    <string name="timer_ago_minutes">%s minutes ago</string>
+    <string name="timer_ago_hours">%s hours ago</string>
+    <string name="timer_ago_days">%s days ago</string>
+    <string name="timer_ago_months">%s months ago</string>
+    <string name="timer_ago_years">%s years ago</string>
+
+    <string name="timer_ago_one_minute">1 minute ago</string>
+    <string name="timer_ago_one_hour">1 hour ago</string>
+    <string name="timer_ago_one_day">1 day ago</string>
+    <string name="timer_ago_one_month">1 month ago</string>
+    <string name="timer_ago_one_year">1 year ago</string>
+
+    <string name="sz_media_view_times_unit_k" translatable="false">K</string>
+    <string name="sz_media_view_times_unit_m" translatable="false">M</string>
+
+</resources>

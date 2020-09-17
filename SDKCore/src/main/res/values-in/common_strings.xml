@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">Dtk</string>
+    <string name="common_unit_time_minute">Mnt</string>
+    <string name="setting_storage_default">Kartu ponsel standar</string>
+    <string name="setting_storage_sdcard">Kartu SD eksternal</string>
+    <string name="setting_storage_no_permission">(Tak ada izin)</string>
+    <string name="setting_storage_auth">(Izinkan)</string>
+</resources>

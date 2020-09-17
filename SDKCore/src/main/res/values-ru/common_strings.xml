@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">Сек.</string>
+    <string name="common_unit_time_minute">Мин.</string>
+    <string name="setting_storage_default">Карта телефона по умолчанию</string>
+    <string name="setting_storage_sdcard">Внешняя карта SD</string>
+    <string name="setting_storage_no_permission">(Без разрешения.)</string>
+    <string name="setting_storage_auth">(Авторизация)</string>
+</resources>

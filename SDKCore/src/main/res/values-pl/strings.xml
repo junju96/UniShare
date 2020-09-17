@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">%s min temu</string>
+    <string name="timer_ago_hours">%s godz. temu</string>
+    <string name="timer_ago_days">%s dni temu</string>
+    <string name="timer_ago_months">%s mies. temu</string>
+    <string name="timer_ago_years">%s lat/-a temu</string>
+    <string name="timer_ago_one_minute">1 minutę temu</string>
+    <string name="timer_ago_one_hour">1 godzinę temu</string>
+    <string name="timer_ago_one_day">1 dzień temu</string>
+    <string name="timer_ago_one_month">1 miesiąc temu</string>
+    <string name="timer_ago_one_year">1 rok temu</string>
+</resources>

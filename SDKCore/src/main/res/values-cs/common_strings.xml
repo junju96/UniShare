@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">S</string>
+    <string name="common_unit_time_minute">Min</string>
+    <string name="setting_storage_default">Výchozí karta telefonu</string>
+    <string name="setting_storage_sdcard">Externí SD karta</string>
+    <string name="setting_storage_no_permission">(Bez oprávnění)</string>
+    <string name="setting_storage_auth">(Autorizovat)</string>
+</resources>

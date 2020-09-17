@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">Pred %s min</string>
+    <string name="timer_ago_hours">Pred %s h</string>
+    <string name="timer_ago_days">Pred toliko dnevi: %s</string>
+    <string name="timer_ago_months">Pred toliko meseci: %s</string>
+    <string name="timer_ago_years">Pred toliko leti: %s</string>
+    <string name="timer_ago_one_minute">Pred 1 minuto</string>
+    <string name="timer_ago_one_hour">Pred 1 uro</string>
+    <string name="timer_ago_one_day">Pred 1 dnevom</string>
+    <string name="timer_ago_one_month">Pred 1 mesecem</string>
+    <string name="timer_ago_one_year">Pred 1 letom</string>
+</resources>

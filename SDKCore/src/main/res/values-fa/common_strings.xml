@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">ثانیه</string>
+    <string name="common_unit_time_minute">دقیقه</string>
+    <string name="setting_storage_default">کارت تلفن پیش فرض</string>
+    <string name="setting_storage_sdcard">کارت SD خارجی</string>
+    <string name="setting_storage_no_permission">(بدون مجوز)</string>
+    <string name="setting_storage_auth">(ارائه مجوز)</string>
+</resources>

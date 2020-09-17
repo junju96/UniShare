@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">s</string>
+    <string name="common_unit_time_minute">m</string>
+    <string name="setting_storage_default">Vaikimisi telefoni kaart</string>
+    <string name="setting_storage_sdcard">Väline SD-kaart</string>
+    <string name="setting_storage_no_permission">(Luba pole)</string>
+    <string name="setting_storage_auth">(Volita)</string>
+</resources>

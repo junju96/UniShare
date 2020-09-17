@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">ثانية</string>
+    <string name="common_unit_time_minute">دقيقة</string>
+    <string name="setting_storage_default">بطاقة الهاتف الافتراضية</string>
+    <string name="setting_storage_sdcard">بطاقة SD الخارجية</string>
+    <string name="setting_storage_no_permission">(بدون إذن)</string>
+    <string name="setting_storage_auth">(تفويض)</string>
+</resources>

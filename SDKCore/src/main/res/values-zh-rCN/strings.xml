@@ -1,0 +1,13 @@
+<resources>
+    <string name="timer_ago_minutes">%s分钟前</string>
+    <string name="timer_ago_hours">%s小时前</string>
+    <string name="timer_ago_days">%s天前</string>
+    <string name="timer_ago_months">%s月前</string>
+    <string name="timer_ago_years">%s年前</string>
+
+    <string name="timer_ago_one_minute">1分钟前</string>
+    <string name="timer_ago_one_hour">1小时前</string>
+    <string name="timer_ago_one_day">1天前</string>
+    <string name="timer_ago_one_month">1月前</string>
+    <string name="timer_ago_one_year">1年前</string>
+</resources>

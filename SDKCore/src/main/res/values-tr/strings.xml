@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">%s dakika önce</string>
+    <string name="timer_ago_hours">%s saat önce</string>
+    <string name="timer_ago_days">%s gün önce</string>
+    <string name="timer_ago_months">%s ay önce</string>
+    <string name="timer_ago_years">%s yıl önce</string>
+    <string name="timer_ago_one_minute">1 dakika önce</string>
+    <string name="timer_ago_one_hour">1 saat önce</string>
+    <string name="timer_ago_one_day">1 gün önce</string>
+    <string name="timer_ago_one_month">1 ay önce</string>
+    <string name="timer_ago_one_year">1 yıl önce</string>
+</resources>

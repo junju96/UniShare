@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">%s perccel ezelőtt</string>
+    <string name="timer_ago_hours">%s órával ezelőtt</string>
+    <string name="timer_ago_days">%s nappal ezelőtt</string>
+    <string name="timer_ago_months">%s hónappal ezelőtt</string>
+    <string name="timer_ago_years">%s évvel ezelőtt</string>
+    <string name="timer_ago_one_minute">1 perccel ezelőtt</string>
+    <string name="timer_ago_one_hour">1 órával ezelőtt</string>
+    <string name="timer_ago_one_day">1 nappal ezelőtt</string>
+    <string name="timer_ago_one_month">1 hónappal ezelőtt</string>
+    <string name="timer_ago_one_year">1 évvel ezelőtt</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">преди %s минути</string>
+    <string name="timer_ago_hours">преди %s часа</string>
+    <string name="timer_ago_days">преди %s дни</string>
+    <string name="timer_ago_months">преди %s месеца</string>
+    <string name="timer_ago_years">преди %s години</string>
+    <string name="timer_ago_one_minute">преди 1 минута</string>
+    <string name="timer_ago_one_hour">преди 1 час</string>
+    <string name="timer_ago_one_day">преди 1 ден</string>
+    <string name="timer_ago_one_month">преди 1 месец</string>
+    <string name="timer_ago_one_year">преди 1 година</string>
+</resources>

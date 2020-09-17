@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">Δευτ.</string>
+    <string name="common_unit_time_minute">Λεπ.</string>
+    <string name="setting_storage_default">Προεπιλεγμένη κάρτα τηλεφώνου</string>
+    <string name="setting_storage_sdcard">Εξωτερική κάρτα SD</string>
+    <string name="setting_storage_no_permission">(Δεν υπάρχει άδεια)</string>
+    <string name="setting_storage_auth">(Εξουσιοδότηση)</string>
+</resources>

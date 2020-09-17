@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">vor %s Minuten</string>
+    <string name="timer_ago_hours">vor %s Stunden</string>
+    <string name="timer_ago_days">vor %s Tagen</string>
+    <string name="timer_ago_months">vor %s Monaten</string>
+    <string name="timer_ago_years">vor %s Jahren</string>
+    <string name="timer_ago_one_minute">vor 1 Minute</string>
+    <string name="timer_ago_one_hour">vor 1 Stunde</string>
+    <string name="timer_ago_one_day">vor 1 Tag</string>
+    <string name="timer_ago_one_month">vor 1 Monat</string>
+    <string name="timer_ago_one_year">vor 1 Jahr</string>
+</resources>

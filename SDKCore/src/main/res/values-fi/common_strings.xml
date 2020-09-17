@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">Sek</string>
+    <string name="common_unit_time_minute">Min</string>
+    <string name="setting_storage_default">Puhelimen oletuskortti</string>
+    <string name="setting_storage_sdcard">Ulkoinen SD-kortti</string>
+    <string name="setting_storage_no_permission">(Ei lupaa)</string>
+    <string name="setting_storage_auth">(Vahvista)</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">pirms %s minūtēm</string>
+    <string name="timer_ago_hours">pirms %s stundām</string>
+    <string name="timer_ago_days">pirms %s dienām</string>
+    <string name="timer_ago_months">pirms %s mēnešiem</string>
+    <string name="timer_ago_years">pirms %s gadiem</string>
+    <string name="timer_ago_one_minute">pirms 1 minūtes</string>
+    <string name="timer_ago_one_hour">pirms 1 stundas</string>
+    <string name="timer_ago_one_day">pirms 1 dienas</string>
+    <string name="timer_ago_one_month">pirms 1 mēneša</string>
+    <string name="timer_ago_one_year">pirms 1 gada</string>
+</resources>

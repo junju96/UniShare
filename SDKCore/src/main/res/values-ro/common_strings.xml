@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">Sec.</string>
+    <string name="common_unit_time_minute">Min.</string>
+    <string name="setting_storage_default">Cartela implicită a telefonului</string>
+    <string name="setting_storage_sdcard">Card SD extern</string>
+    <string name="setting_storage_no_permission">(Nicio permisiune)</string>
+    <string name="setting_storage_auth">(Autorizare)</string>
+</resources>

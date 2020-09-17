@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">%s minuta ranije</string>
+    <string name="timer_ago_hours">%s sati ranije</string>
+    <string name="timer_ago_days">%s dana ranije</string>
+    <string name="timer_ago_months">%s meseci ranije</string>
+    <string name="timer_ago_years">%s godina ranije</string>
+    <string name="timer_ago_one_minute">1 minut ranije</string>
+    <string name="timer_ago_one_hour">1 sat ranije</string>
+    <string name="timer_ago_one_day">1 dan ranije</string>
+    <string name="timer_ago_one_month">1 mesec ranije</string>
+    <string name="timer_ago_one_year">1 godina ranije</string>
+</resources>

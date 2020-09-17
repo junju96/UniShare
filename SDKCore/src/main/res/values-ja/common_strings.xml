@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">秒</string>
+    <string name="common_unit_time_minute">分</string>
+    <string name="setting_storage_default">デフォルトのテレフォンカード</string>
+    <string name="setting_storage_sdcard">外部SDカード</string>
+    <string name="setting_storage_no_permission">(権限なし)</string>
+    <string name="setting_storage_auth">(認証)</string>
+</resources>

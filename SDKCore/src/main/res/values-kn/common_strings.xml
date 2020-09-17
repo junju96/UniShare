@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">ಸೆಕೆಂಡ್</string>
+    <string name="common_unit_time_minute">ನಿಮಿಷ</string>
+    <string name="setting_storage_default">ಡೀಫಾಲ್ಟ್‌ ಫೋನ್‌ ಕಾರ್ಡ್‌</string>
+    <string name="setting_storage_sdcard">ಬಾಹ್ಯ ಎಸ್‌ಡಿ ಕಾರ್ಡ್‌</string>
+    <string name="setting_storage_no_permission">(ಅನುಮತಿಯಿಲ್ಲ)</string>
+    <string name="setting_storage_auth">(ಅನುಮತಿಸಿ)</string>
+</resources>

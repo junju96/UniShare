@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">Il y a %s minutes</string>
+    <string name="timer_ago_hours">Il y a %s heures</string>
+    <string name="timer_ago_days">Il y a %s jours</string>
+    <string name="timer_ago_months">Il y a %s mois</string>
+    <string name="timer_ago_years">Il y a %s ans</string>
+    <string name="timer_ago_one_minute">Il y a 1 minute</string>
+    <string name="timer_ago_one_hour">Il y a 1 heure</string>
+    <string name="timer_ago_one_day">Il y a 1 jour</string>
+    <string name="timer_ago_one_month">Il y a 1 mois</string>
+    <string name="timer_ago_one_year">Il y a 1 an</string>
+</resources>

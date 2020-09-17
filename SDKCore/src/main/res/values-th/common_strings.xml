@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">วินาที</string>
+    <string name="common_unit_time_minute">นาที</string>
+    <string name="setting_storage_default">บัตรโทรศัพท์เริ่มต้น</string>
+    <string name="setting_storage_sdcard">การ์ด SD ภายนอก</string>
+    <string name="setting_storage_no_permission">(ไม่มีสิทธิ)</string>
+    <string name="setting_storage_auth">(อนุญาต)</string>
+</resources>

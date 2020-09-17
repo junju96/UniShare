@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">Sn</string>
+    <string name="common_unit_time_minute">Dk</string>
+    <string name="setting_storage_default">Varsayılan telefon kartı</string>
+    <string name="setting_storage_sdcard">Harici SD kart</string>
+    <string name="setting_storage_no_permission">(İzin yok)</string>
+    <string name="setting_storage_auth">(Yetkilendir)</string>
+</resources>

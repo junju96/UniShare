@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">%s นาทีที่แล้ว</string>
+    <string name="timer_ago_hours">%s ชั่วโมงที่แล้ว</string>
+    <string name="timer_ago_days">%s วันที่แล้ว</string>
+    <string name="timer_ago_months">%s เดือนที่แล้ว</string>
+    <string name="timer_ago_years">%s ปีที่แล้ว</string>
+    <string name="timer_ago_one_minute">1 นาทีที่แล้ว</string>
+    <string name="timer_ago_one_hour">1 ชั่วโมงที่แล้ว</string>
+    <string name="timer_ago_one_day">1 วันที่แล้ว</string>
+    <string name="timer_ago_one_month">1 เดือนที่แล้ว</string>
+    <string name="timer_ago_one_year">1 ปีที่แล้ว</string>
+</resources>

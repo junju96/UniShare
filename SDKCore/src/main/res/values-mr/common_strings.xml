@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">सेकंद</string>
+    <string name="common_unit_time_minute">मिनिट</string>
+    <string name="setting_storage_default">डिफॉल्ट फोन कार्ड</string>
+    <string name="setting_storage_sdcard">बाह्य एसडी कार्ड</string>
+    <string name="setting_storage_no_permission">(परवानगी नाही)</string>
+    <string name="setting_storage_auth">(अधिकृत करा)</string>
+</resources>

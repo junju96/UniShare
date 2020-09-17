@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">Saat</string>
+    <string name="common_unit_time_minute">Min</string>
+    <string name="setting_storage_default">Kad telefon lalai</string>
+    <string name="setting_storage_sdcard">Kad SD luar</string>
+    <string name="setting_storage_no_permission">(Tiada keizinan)</string>
+    <string name="setting_storage_auth">(Benarkan)</string>
+</resources>

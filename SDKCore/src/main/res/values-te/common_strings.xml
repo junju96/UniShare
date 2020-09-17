@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">సెకను.</string>
+    <string name="common_unit_time_minute">కనీసం</string>
+    <string name="setting_storage_default">డిఫాల్ట్ ఫోన్ కార్డు</string>
+    <string name="setting_storage_sdcard">బాహ్య SD కార్డు</string>
+    <string name="setting_storage_no_permission">(అనుమతి లేదు)</string>
+    <string name="setting_storage_auth">(అధికారం ఇవ్వడం)</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">நொடி</string>
+    <string name="common_unit_time_minute">நிமி</string>
+    <string name="setting_storage_default">இயல்புநிலை ஃபோன் கார்டு</string>
+    <string name="setting_storage_sdcard">வெளிப்புற எஸ்டி கார்டு</string>
+    <string name="setting_storage_no_permission">(அனுமதி இல்லை)</string>
+    <string name="setting_storage_auth">(அனுமதி)</string>
+</resources>

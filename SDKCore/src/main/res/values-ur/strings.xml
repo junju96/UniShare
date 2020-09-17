@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">%s منٹس پہلے</string>
+    <string name="timer_ago_hours">%s گھنٹے پہلے</string>
+    <string name="timer_ago_days">%s دنوں پہلے</string>
+    <string name="timer_ago_months">%s مہینے پہلے</string>
+    <string name="timer_ago_years">%s سالوں پہلے</string>
+    <string name="timer_ago_one_minute">1 منٹ پہلے</string>
+    <string name="timer_ago_one_hour">1 گھنٹہ پہلے</string>
+    <string name="timer_ago_one_day">1 دن پہلے</string>
+    <string name="timer_ago_one_month">1 مہنہ پہلے</string>
+    <string name="timer_ago_one_year">1 سال پہلے</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">منذ %s دقائق</string>
+    <string name="timer_ago_hours">منذ %s ساعات</string>
+    <string name="timer_ago_days">منذ %s أيام</string>
+    <string name="timer_ago_months">منذ %s شهور</string>
+    <string name="timer_ago_years">منذ %s سنوات</string>
+    <string name="timer_ago_one_minute">منذ 1 دقيقة</string>
+    <string name="timer_ago_one_hour">منذ 1 ساعة</string>
+    <string name="timer_ago_one_day">منذ 1 يوم</string>
+    <string name="timer_ago_one_month">منذ 1 شهر</string>
+    <string name="timer_ago_one_year">منذ 1 سنة</string>
+</resources>

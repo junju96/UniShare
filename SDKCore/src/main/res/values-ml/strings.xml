@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">%s മിനിറ്റ് മുമ്പ്</string>
+    <string name="timer_ago_hours">%s മണിക്കൂർ മുമ്പ്</string>
+    <string name="timer_ago_days">%s ദിവസം മുമ്പ്</string>
+    <string name="timer_ago_months">%s മാസം മുമ്പ്</string>
+    <string name="timer_ago_years">%s വർഷം മുമ്പ്</string>
+    <string name="timer_ago_one_minute">1 മിനിറ്റ് മുമ്പ്</string>
+    <string name="timer_ago_one_hour">1 മണിക്കൂർ മുമ്പ്</string>
+    <string name="timer_ago_one_day">1 ദിവസം മുമ്പ്</string>
+    <string name="timer_ago_one_month">1 മാസം മുമ്പ്</string>
+    <string name="timer_ago_one_year">1 വർഷം മുമ്പ്</string>
+</resources>

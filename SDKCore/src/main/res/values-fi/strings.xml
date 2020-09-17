@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">%s minuuttia sitten</string>
+    <string name="timer_ago_hours">%s tuntia sitten</string>
+    <string name="timer_ago_days">%s päivää sitten</string>
+    <string name="timer_ago_months">%s kuukautta sitten</string>
+    <string name="timer_ago_years">%s vuotta sitten</string>
+    <string name="timer_ago_one_minute">1 minuutti sitten</string>
+    <string name="timer_ago_one_hour">1 tunti sitten</string>
+    <string name="timer_ago_one_day">1 päivä sitten</string>
+    <string name="timer_ago_one_month">1 kuukausi sitten</string>
+    <string name="timer_ago_one_year">1 vuosi sitten</string>
+</resources>

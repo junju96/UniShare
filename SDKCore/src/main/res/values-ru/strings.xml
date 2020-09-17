@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">%s мин. назад</string>
+    <string name="timer_ago_hours">%s ч. назад</string>
+    <string name="timer_ago_days">%s дн. назад</string>
+    <string name="timer_ago_months">%s мес. назад</string>
+    <string name="timer_ago_years">%s года/лет назад</string>
+    <string name="timer_ago_one_minute">1 минуту назад</string>
+    <string name="timer_ago_one_hour">1 час назад</string>
+    <string name="timer_ago_one_day">1 день назад</string>
+    <string name="timer_ago_one_month">1 месяц назад</string>
+    <string name="timer_ago_one_year">1 год назад</string>
+</resources>

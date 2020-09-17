@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">s</string>
+    <string name="common_unit_time_minute">min</string>
+    <string name="setting_storage_default">Domyślna karta w telefonie</string>
+    <string name="setting_storage_sdcard">Zewnętrzna karta SD</string>
+    <string name="setting_storage_no_permission">(Brak uprawnień)</string>
+    <string name="setting_storage_auth">(Autoryzuj)</string>
+</resources>

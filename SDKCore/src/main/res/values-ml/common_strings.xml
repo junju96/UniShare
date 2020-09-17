@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">സെ.</string>
+    <string name="common_unit_time_minute">മി.</string>
+    <string name="setting_storage_default">ഡിഫോൾട്ട് ഫോൺ കാർഡ്</string>
+    <string name="setting_storage_sdcard">ബാഹ്യ SD കാർഡ്</string>
+    <string name="setting_storage_no_permission">(അനുമതിയില്ല)</string>
+    <string name="setting_storage_auth">(അംഗീകാരം നൽകുക)</string>
+</resources>

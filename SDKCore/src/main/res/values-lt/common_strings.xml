@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">Sek.</string>
+    <string name="common_unit_time_minute">Min.</string>
+    <string name="setting_storage_default">Numatytoji telefono kortelė</string>
+    <string name="setting_storage_sdcard">Išorinė SD kortelė</string>
+    <string name="setting_storage_no_permission">(Nėra leidimo)</string>
+    <string name="setting_storage_auth">(Autorizuoti)</string>
+</resources>

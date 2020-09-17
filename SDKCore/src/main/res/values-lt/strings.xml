@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">Prieš %s minutes (-ių)</string>
+    <string name="timer_ago_hours">Prieš %s valandas (-ų)</string>
+    <string name="timer_ago_days">Prieš %s dienas (-ų)</string>
+    <string name="timer_ago_months">Prieš %s mėnesius (-ių)</string>
+    <string name="timer_ago_years">Prieš %s metus (-ų)</string>
+    <string name="timer_ago_one_minute">Prieš 1 minutę</string>
+    <string name="timer_ago_one_hour">Prieš 1 valandą</string>
+    <string name="timer_ago_one_day">Prieš 1 dieną</string>
+    <string name="timer_ago_one_month">Prieš 1 mėnesį</string>
+    <string name="timer_ago_one_year">Prieš 1 metus</string>
+</resources>

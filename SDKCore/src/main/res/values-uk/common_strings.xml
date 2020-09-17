@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_unit_time_second">С</string>
+    <string name="common_unit_time_minute">Хв</string>
+    <string name="setting_storage_default">Картка в телефоні за промовчанням</string>
+    <string name="setting_storage_sdcard">Зовнішня SD-карта</string>
+    <string name="setting_storage_no_permission">(Немає дозволу)</string>
+    <string name="setting_storage_auth">(Авторизувати)</string>
+</resources>

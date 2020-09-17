@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">לפני %s דקות</string>
+    <string name="timer_ago_hours">לפני %s שעות</string>
+    <string name="timer_ago_days">לפני %s ימים</string>
+    <string name="timer_ago_months">לפני %s חודשים</string>
+    <string name="timer_ago_years">לפני %s שנים</string>
+    <string name="timer_ago_one_minute">לפני דקה 1</string>
+    <string name="timer_ago_one_hour">לפני שעה 1</string>
+    <string name="timer_ago_one_day">לפני יום 1</string>
+    <string name="timer_ago_one_month">לפני חודש 1</string>
+    <string name="timer_ago_one_year">לפני שנה 1</string>
+</resources>

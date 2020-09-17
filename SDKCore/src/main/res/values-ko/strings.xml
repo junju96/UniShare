@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">%s분 전</string>
+    <string name="timer_ago_hours">%s시간 전</string>
+    <string name="timer_ago_days">%s일 전</string>
+    <string name="timer_ago_months">%s개월 전</string>
+    <string name="timer_ago_years">%s년 전</string>
+    <string name="timer_ago_one_minute">1분 전</string>
+    <string name="timer_ago_one_hour">1시간 전</string>
+    <string name="timer_ago_one_day">1일 전</string>
+    <string name="timer_ago_one_month">1개월 전</string>
+    <string name="timer_ago_one_year">1년 전</string>
+</resources>

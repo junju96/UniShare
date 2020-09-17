@@ -1,0 +1,4 @@
+include ':app'
+include ':SDKCore'
+
+rootProject.name = "UniShare"

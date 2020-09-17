@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_ago_minutes">acum %s minute</string>
+    <string name="timer_ago_hours">acum %s ore</string>
+    <string name="timer_ago_days">acum %s zile</string>
+    <string name="timer_ago_months">acum %s luni</string>
+    <string name="timer_ago_years">acum %s ani</string>
+    <string name="timer_ago_one_minute">acum 1 minut</string>
+    <string name="timer_ago_one_hour">acum 1 oră</string>
+    <string name="timer_ago_one_day">acum 1 zi</string>
+    <string name="timer_ago_one_month">acum 1 lună</string>
+    <string name="timer_ago_one_year">acum 1 an</string>
+</resources>
